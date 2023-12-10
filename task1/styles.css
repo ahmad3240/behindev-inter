@@ -204,7 +204,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 4rem 2rem; /* Adjusted padding for smaller screens */
-    background-image: url(/images/background-img.svg);
+    background-image: url(https://assets-global.website-files.com/5d9a902248623ef932d0da66/6282c893b9b3495c8d6dc73c_tilted-results-round3-bg.svg);
     background-position: 100% 5%, 0 0;
     background-repeat: no-repeat, repeat;
     background-size: 775px, auto;
